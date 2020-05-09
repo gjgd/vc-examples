@@ -1,7 +1,7 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://sphereon-opensource.github.io/factom-vc-contexts/ftg/forest-transport-guide-v1.jsonld"
+    "https://sphereon-opensource.github.io/factom-vc-contexts/ftg/forest-transport-guide-v3.jsonld"
   ],
   "id": "http://example.com/credentials/123",
   "type": [
@@ -55,8 +55,8 @@
   },
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2020-04-30T17:19:27Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..6N1VQwxgfSMK33k1R5vXsWWQZM6hkbb4CpiqLd5QQJO7-OCGblrM5xlriz8h8OlDr5Pw2oFyFH2BqEelGT09CA",
+    "created": "2020-05-07T08:28:36Z",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..QuECLqCz_tJrFtWxNIK8HQFm2X-D0JHZU9roVwRb1Ch57DCOkJVKeUevQm8t1769ZcHxIW7CFeBz2bHkn07dBA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:factom:5d0dd58757119dd437c70d92b44fbf86627ee275f0f2146c3d99e441da342d9f#key-0"
   }
